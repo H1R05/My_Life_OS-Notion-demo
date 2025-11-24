@@ -1,5 +1,5 @@
 <h1 align="center">My Life OS – Sistema di Produttività</h1> 
-<p align="center"> Una dashboard completa progettata in <b>Notion</b> per gestire studio, progetti, routine e note in uno spazio unico, chiaro e minimal. 
+<p align="center"> Una dashboard completa progettata in <b>Notion</b> per gestire studio, progetti, routine in uno spazio unico, chiaro e minimal. 
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ## Introduzione
 
-Questo sistema l’ho creato per avere un punto unico dove organizzare davvero tutto: corsi, compiti, progetti, routine e note.
+Questo sistema l’ho creato per avere un punto unico dove organizzare davvero tutto: corsi, compiti, progetti e routine.
 È una versione che unisce minimalismo, funzionalità e coerenza visiva.
 
 La versione pubblica (DEMO) mostra la struttura del workspace senza includere dati personali, permettendo comunque di vedere come è stato progettato e come si integra ogni parte.
@@ -41,6 +41,8 @@ La versione pubblica (DEMO) mostra la struttura del workspace senza includere da
 
 Tutto è stato costruito con l’obiettivo di essere chiaro, intuitivo e piacevole da usare ogni giorno.
 
+> È stato progettato tutto partendo da una mia esigenza e idea, <b>non</b> sono stati utilizzati templates già pronti
+ 
 ---
 
 ## Tecnologie utilizzate
