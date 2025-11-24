@@ -56,11 +56,11 @@ UI personalizzata — palette coerente, box scuri, icone e struttura in tre colo
 ## Anteprima
 
 <p align="center">
-  <img src="./screenshots/MyLifeOs.png" width="100%">
-  <p>
-    <img src="./screenshots/HomeStudio.png" width="33%">
-    <img src="./screenshots/HabitRoutine.png" width="33%">
-    <img src="./screenshots/HomeProgetti.png" width="33%">
+  <img src="./screenshots/MyLifeOs.png" width="90%">
+  <p align="center">
+    <img src="./screenshots/HomeStudio.png" width="30%">
+    <img src="./screenshots/HabitRoutine.png" width="30%">
+    <img src="./screenshots/HomeProgetti.png" width="30%">
   </p>
 </p>
 
