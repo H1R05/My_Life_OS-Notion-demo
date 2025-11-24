@@ -55,7 +55,14 @@ UI personalizzata — palette coerente, box scuri, icone e struttura in tre colo
 
 ## Anteprima
 
-
+<p align="center">
+  <img src="./screenshots/MyLifeOs.png" width="100%">
+  <p>
+    <img src="./screenshots/HomeStudio.png" width="33%">
+    <img src="./screenshots/HabitRoutine.png" width="33%">
+    <img src="./screenshots/HomeProgetti.png" width="33%">
+  </p>
+</p>
 
 ---
 
@@ -66,5 +73,5 @@ Un workspace che non fosse solo “funzionale”, ma che avesse anche un minimo 
 
 Ho lavorato per creare una struttura pulita, equilibrata e utilizzabile tutti i giorni.
 
-<h3 align="center">🔗 Demo pubblica</h3> <p align="center"> <a href="INSERISCI-QUI-IL-LINK-NOTION" target="_blank"> <img src="https://img.shields.io/badge/Apri%20la%20DEMO%20su-Notion-black?logo=notion&logoColor=white"/> </a> </p>
+<h3 align="center">🔗 Demo pubblica</h3> <p align="center"> <a href="https://seemly-trunk-a8a.notion.site/My-Life-OS-DEMO-2b5376128bab80e3a754f46aae294511?source=copy_link" target="_blank"> <img src="https://img.shields.io/badge/Apri%20la%20DEMO%20su-Notion-black?logo=notion&logoColor=white"/> </a> </p>
 <h3 align="center">👨‍💻 Autore</h3> <p align="center"> <b>Samuele Angelicchio</b></p>
